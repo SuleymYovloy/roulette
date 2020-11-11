@@ -1,0 +1,16 @@
+.roulette {
+	position: relative;
+}
+
+
+.roulette__carousel {
+	display: block;
+	margin: 0 auto;
+	transition: 6s;
+}
+
+.roulette__stop {
+	position: absolute;
+	top: 0;
+	right: 47%;
+}
